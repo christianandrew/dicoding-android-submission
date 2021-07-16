@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_rate">Pokemon Rate</string>
+    <string name="pokemon_detail">Pokemon Detail</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail">Detail</string>
+
+    <string name="name">Christian Andrew</string>
+    <string name="email">christianandrew7449@gmail.com</string>
+    <string name="title_detail">Contact Person \nLinkedin \nInstagram \nLine \n</string>
+    <string name="about_detail">\n \nhttps://www.linkedin.com/in/christianandreww/  \n@christian_andrew7 \n@andru_7</string>
+</resources>
